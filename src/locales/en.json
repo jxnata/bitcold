@@ -1,0 +1,120 @@
+{
+	"translation": {
+		"intro": {
+			"title": "welcome to bitcold!",
+			"welcome": "please, paste the xpub or json content of your wallet to import.",
+			"data": "your json wallet data or xpub",
+			"import": "import",
+			"data_placeholder": "paste the xpub or json here",
+			"read_nfc": "read with NFC"
+		},
+		"home": {
+			"balance": "balance",
+			"send": "send",
+			"receive": "receive"
+		},
+		"send": {
+			"to": "receiver",
+			"receiver_address": "paste the bitcoin address",
+			"send": "send",
+			"fee": "fee",
+			"sign": "sign with NFC",
+			"read_nfc": "Success",
+			"read_nfc_desc": "Ok, now read the signed transaction with NFC.",
+			"read": "Read now",
+			"cancel": "Cancel",
+			"nfc_write_error": "an error occurred while writing the transaction, please try again.",
+			"nfc_read_error": "an error occurred while reading the transaction, please try again.",
+			"invalid_btc_qr_code": "invalid bitcoin address, please try again."
+		},
+		"receive": {
+			"to": "receiver",
+			"address": "your address",
+			"share": "share",
+			"copy": "copy",
+			"copied_to_clipboard": "copied to clipboard",
+			"no_permissions": "no permissions to copy"
+		},
+		"broadcast": {
+			"title": "confirm transaction",
+			"fee": "fee",
+			"amount": "amount",
+			"to": "to",
+			"change": "change",
+			"send": "send",
+			"hash": "hash",
+			"broadcast_error": "an error occurred while broadcasting the transaction, please try again."
+		},
+		"transaction": {
+			"title": "transaction details",
+			"fee": "fee",
+			"type": "type",
+			"amount": "amount",
+			"from": "from",
+			"to": "to",
+			"change": "change",
+			"send": "send",
+			"type_send": "you sent",
+			"type_receive": "you received",
+			"type_consolidation": "you consolidated",
+			"hash": "hash",
+			"input": "input",
+			"block": "block",
+			"pending": "pending",
+			"date": "date",
+			"your_address": "your address",
+			"view_details": "see in mempool",
+			"output": "output"
+		},
+		"settings": {
+			"title": "settings",
+			"utxo_list": "UTXO list",
+			"delete_wallet_title": "Delete wallet",
+			"delete_wallet_desc": "This action remove current wallet from this device, are you sure?",
+			"cancel": "Cancel",
+			"delete_ok": "Delete wallet",
+			"delete": "delete wallet",
+			"network": "network",
+			"address_type": "wallet type",
+			"currency": "currency",
+			"auth": "authentication",
+			"enabled": "enabled",
+			"disabled": "disabled",
+			"app_auth": "authentication",
+			"auth_not_available": "authentication not available, please enabled it in your device settings"
+		},
+		"transactions": {
+			"title": "transactions",
+			"delete_wallet_title": "Delete wallet",
+			"delete_wallet_desc": "This action remove current wallet from this device, are you sure?",
+			"cancel": "Cancel",
+			"delete_ok": "Delete wallet",
+			"delete": "delete wallet"
+		},
+		"utxo": {
+			"title": "UTXO list",
+			"confirmations": "confirmations"
+		},
+		"auth": {
+			"auth_prompt": "please, complete the authentication",
+			"auth_message": "please, confirm your identity",
+			"try_again": "try again",
+			"auth_not_available": "authentication not available, please enabled it in your device settings",
+			"auth_failed": "authentication failed, please try again",
+			"auth_error": "an error occurred while authenticating, please try again"
+		},
+		"checkbox": {
+			"bip44": "Legacy",
+			"bip49": "P2SH-P2WPKH",
+			"bip84": "Segwit",
+			"fastestFee": "Fast",
+			"halfHourFee": "Normal",
+			"hourFee": "Slow",
+			"economyFee": "Economy"
+		},
+		"alerts": {
+			"copied_to_clipboard": "copied to clipboard",
+			"no_permissions": "no permissions to copy"
+		}
+	}
+}
