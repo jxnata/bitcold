@@ -39,4 +39,4 @@ Bitcold is licensed under the [MIT License](LICENSE), allowing for both personal
 
 ## Contact
 
-For any questions, feedback, or support, please feel free to contact us at [jxnata@proton.me](mailto:jxnata@proton.me).
+For any questions, feedback, or support, please feel free to contact me at [jxnata@proton.me](mailto:jxnata@proton.me) or X: [@jxnata](https://x.com/jxnata).
